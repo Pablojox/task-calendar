@@ -1,4 +1,4 @@
-# Create Calendar project (VBA)
+# Update Calendar Project (VBA)
 ## 🗺️ Context
 I was working for a company that creates an annual calendar of tasks to plan their work according to project management principles. Typically, they generate the calendar for the upcoming year using an Excel file. This involves creating formulas to add one year to the previous calendar and checking if the new dates fall on weekends or holidays to make necessary adjustments.
 
